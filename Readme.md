@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/VectorElementCustomTitle/MainPage.xaml) (VB: [MainPage.xaml](./VB/VectorElementCustomTitle/MainPage.xaml))
+<!-- default file list end -->
 # How to add a custom title to a map vector element
 
 
