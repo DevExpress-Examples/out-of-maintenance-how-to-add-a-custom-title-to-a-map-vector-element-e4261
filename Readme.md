@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/VectorElementCustomTitle/MainPage.xaml) (VB: [MainPage.xaml](./VB/VectorElementCustomTitle/MainPage.xaml))
 <!-- default file list end -->
 # How to add a custom title to a map vector element
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4261)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to add a title to a map's dot. <br />
